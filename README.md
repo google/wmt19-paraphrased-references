@@ -3,7 +3,7 @@
 The contents of this repository are not an official Google product.
 
 [Additional References]
-The sentences below are alternative reference translations for the newstest2019 English-German test set, produced through human translation or human paraphrasing. For details on data collection and how paraphrased references can improve the automatic evaluation of machine translation, see our paper below. Also, consider citing the paper if you are using this data for your research.
+The sentences below are alternative reference translations for the newstest2019 English-German test set, produced through human translation or human paraphrasing. Automatic metrics like BLEU have been demonstrated to correlate better with human judgement when using these references than when using standard references. For details on data collection and how paraphrased references can improve the automatic evaluation of machine translation, see our paper below. Also, consider citing the paper if you are using this data for your research.
 Currently the repo contains 5 additional references:
 
 1. [AR](wmt19/ende/wmt19-ende-ar.ref) An additional high quality reference translation.
