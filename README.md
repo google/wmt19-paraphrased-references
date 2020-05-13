@@ -3,7 +3,7 @@
 The contents of this repository are not an official Google product.
 
 [Additional References]
-The sentences below are alternative references for WMT'19 en-de test set, produced through human translation or human paraphrasing. For details on data collection and how paraphrased references can improve the automatic evaluation of machine translation, see our paper below. Also, consider citing the paper if you are using this data for your research.
+The sentences below are alternative reference translations for the newstest2019 English-German test set, produced through human translation or human paraphrasing. For details on data collection and how paraphrased references can improve the automatic evaluation of machine translation, see our paper below. Also, consider citing the paper if you are using this data for your research.
 Currently the repo contains 5 additional references:
 
 1. [AR](wmt19/ende/wmt19-ende-ar.ref) An additional high quality reference translation.
@@ -19,13 +19,13 @@ Currently the repo contains 5 additional references:
 6. [HQ(all)](wmt19/ende/wmt19-ende-hqall.ref) A combined reference from WMT, AR, WMT.p, AR.p. Per sentence, humans picked one of the two reference translations.
 [Research Paper]
 
-[BLEU might be Guilty but References are not Innocent](https://arxiv.org/abs/2004.06063)
+[BLEU might be Guilty but References are not Innocent](https://arxiv.org/abs/2004.06063)  
 Markus Freitag, David Grangier, Isaac Caswell - ArXiv:2004.06063. 2020.
 
-@article{freitag-bleu-paraphrase-references-2020,
-    title={BLEU might be Guilty but References are not Innocent},
-    author={Markus Freitag and David Grangier and Isaac Caswell},
-    journal={ArXiv},
-    year={2020},
-    volume={abs/2004.06063}
+@article{freitag-bleu-paraphrase-references-2020,  
+    title={BLEU might be Guilty but References are not Innocent},  
+    author={Markus Freitag and David Grangier and Isaac Caswell},  
+    journal={ArXiv},  
+    year={2020},  
+    volume={abs/2004.06063}  
 }
