@@ -3,7 +3,7 @@
 The contents of this repository are not an official Google product.
 
 [Additional References]
-The sentences below are alternative reference translations for the WMT newstest20XX English-German test set, produced through human translation or human paraphrasing. Automatic metrics like BLEU have been demonstrated to correlate better with human judgement when using these references than when using standard references. For details on data collection and how paraphrased references can improve the automatic evaluation of machine translation, see our paper below. Also, consider citing the paper if you are using this data for your research.
+The sentences below are alternative reference translations for the WMT newstest20XX English-German test sets, produced through human translation or human paraphrasing. Automatic metrics like BLEU have been demonstrated to correlate better with human judgement when using these references than when using standard references. For details on data collection and how paraphrased references can improve the automatic evaluation of machine translation, see our paper below. Also, consider citing the paper if you are using this data for your research.
 Currently the repo contains additional references for newstes2018, newstest2019 and newstest2020:
 
 1. [newstest2018 WMT.p](wmt18/ende/wmt18-ende-wmtp.ref) A paraphrased as-much-as-possible version of the original WMT reference.
@@ -25,12 +25,13 @@ Currently the repo contains additional references for newstes2018, newstest2019 
 [Research Paper]
 
 [BLEU might be Guilty but References are not Innocent](https://arxiv.org/abs/2004.06063)
-Markus Freitag, David Grangier, Isaac Caswell - ArXiv:2004.06063. 2020.
+Markus Freitag, David Grangier, Isaac Caswell - EMNLP 2020.
 
-@article{freitag-bleu-paraphrase-references-2020,  
-    title={BLEU might be Guilty but References are not Innocent},  
-    author={Markus Freitag and David Grangier and Isaac Caswell},  
-    journal={ArXiv},  
-    year={2020},  
-    volume={abs/2004.06063}  
+@inproceedings{freitag-bleu-paraphrase-references-2020,
+    title={BLEU might be Guilty but References are not Innocent},
+    author={Markus Freitag and David Grangier and Isaac Caswell},
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    year={2020},
+    month={nov}
+    url={https://arxiv.org/abs/2004.06063}
 }
