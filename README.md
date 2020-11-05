@@ -32,6 +32,5 @@ Markus Freitag, David Grangier, Isaac Caswell - EMNLP 2020.
     author={Markus Freitag and David Grangier and Isaac Caswell},   
     booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",   
     year={2020},   
-    month={nov},   
-    url={https://arxiv.org/abs/2004.06063}
+    month={nov}   
 }
