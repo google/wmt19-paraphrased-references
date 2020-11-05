@@ -27,11 +27,11 @@ Currently the repo contains additional references for newstes2018, newstest2019 
 [BLEU might be Guilty but References are not Innocent](https://arxiv.org/abs/2004.06063)
 Markus Freitag, David Grangier, Isaac Caswell - EMNLP 2020.
 
-@inproceedings{freitag-bleu-paraphrase-references-2020,
-    title={BLEU might be Guilty but References are not Innocent},
-    author={Markus Freitag and David Grangier and Isaac Caswell},
-    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
-    year={2020},
-    month={nov}
+@inproceedings{freitag-bleu-paraphrase-references-2020,   
+    title={BLEU might be Guilty but References are not Innocent},   
+    author={Markus Freitag and David Grangier and Isaac Caswell},   
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",   
+    year={2020},   
+    month={nov},   
     url={https://arxiv.org/abs/2004.06063}
 }
