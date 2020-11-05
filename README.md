@@ -34,3 +34,6 @@ Markus Freitag, David Grangier, Isaac Caswell - EMNLP 2020.
     year={2020},   
     month={nov}   
 }
+
+[Human-Paraphrased References Improve Neural Machine Translation](https://arxiv.org/abs/2010.10245)
+Markus Freitag, George Foster, David Grangier, Colin Cherry - WMT 2020
